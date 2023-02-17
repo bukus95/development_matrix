@@ -7,4 +7,5 @@
   * [Asynchronous execution](JavaScript/Asynchronous_execution.md)
   * [TypeScript](JavaScript/TypeScript.md)
 * [ReactJS](ReactJS/README.md)
+     * [Core](ReactJS/Core.md)
 * [SSR](Serverside_interaction/README.md)
